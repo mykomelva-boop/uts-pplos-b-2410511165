@@ -9,7 +9,14 @@
 (akan diisi setelah semua service selesai)
 
 ## Peta Endpoint
-(akan diisi setelah semua service selesai)
+### Auth Service (port 3001)
+- POST /auth/register
+- POST /auth/login
+- POST /auth/refresh
+- POST /auth/logout
+- GET /auth/profile
+- GET /auth/oauth/github
+- GET /auth/oauth/github/callback
 
 ## Demo Video
 (akan diisi setelah selesai)
