@@ -153,4 +153,4 @@ const profile = (req, res) => {
   return res.status(200).json({ user: userData });
 };
 
-module.exports = { register, login, refresh, logout, profile, tokenBlacklist };
+module.exports = { register, login, refresh, logout, profile, tokenBlacklist, refreshTokenStore };
