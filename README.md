@@ -3,12 +3,14 @@
 > UTS Pembangunan Perangkat Lunak Berorientasi Service — Kelas B
 
 ## Identitas
-**Nama**                  : Melva Fereyzha Kirana Myko Putri
-**NIM**                   : 2410511165
-**Program Studi / Kelas** : S1 Informatika / B
-**Mata Kuliah**           : Pembangunan Perangkat Lunak Orientasi Servis - UTS
 
----
+**Nama** : Melva Fereyzha Kirana Myko Putri
+
+**NIM** : 2410511165
+
+**Program Studi / Kelas** : S1 Informatika / B
+
+**Mata Kuliah** : Pembangunan Perangkat Lunak Orientasi Servis - UTS
 
 ## Cara Menjalankan
 
