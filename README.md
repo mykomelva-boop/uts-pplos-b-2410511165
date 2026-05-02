@@ -141,4 +141,4 @@ cd gateway && npm install && npm run dev
 ---
 
 ## Demo Video
-> Link akan diupdate setelah video diunggah ke YouTube
+> https://youtu.be/U6hSPGBnyl8
